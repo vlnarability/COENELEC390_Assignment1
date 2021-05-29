@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_data">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="settings">Settings</string>
+    <string name="event_1">Event 1</string>
+    <string name="event_2">Event 2</string>
+    <string name="event_3">Event 3</string>
+    <string name="total_count">Total Count: %1$d</string>
+    <string name="show_my_counts">Show My Counts</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="edit_settings">Edit Settings</string>
+    <string name="toggle_event_names">Toggle Event Names</string>
+    <string name="maximum_counts">Maximum Counts</string>
+    <string name="save">Save</string>
+    <string name="name_of_counter_1">Name of Counter 1</string>
+    <string name="name_of_counter_2">Name of Counter 2</string>
+    <string name="name_of_counter_3">Name of Counter 3</string>
+    <string name="maximum_number_of_events">Maximum number of events</string>
+    <string name="counter_3_name">Counter 3 Name</string>
+    <string name="counter_2_name">Counter 2 Name</string>
+    <string name="counter_1_name">Counter 1 Name</string>
+    <string name="total_events">Total Events: %1$d</string>
+    <string name="event">%1$s: %2$d</string>
+    <string name="counter">Counter %1$d: %2$d</string>
+</resources>
